@@ -24,7 +24,7 @@ text_pos = (230, 140)
 
 # Joonista ekraanile
 screen.blit(bg, (0, 0))               # taust
-screen.blit(seller, seller_pos)       # müüja
+screen.blit(seller, seller_pos)       # karakter - Kristo Arestov
 screen.blit(chat, chat_pos)           # jutumull
 screen.blit(text, text_pos)           # tekst jutumulli sees
 
